@@ -1,0 +1,11 @@
+grid_x = 10
+grid_y = 10
+players_tot = 0
+player_names = []
+current_player_id = 0
+snake_tot = 0
+ladder_tot = 0
+snake_pos = []
+ladder_pos = []
+winner = -1
+diceValue = -1
